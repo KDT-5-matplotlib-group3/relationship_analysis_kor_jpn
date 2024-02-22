@@ -2,9 +2,9 @@
 
 ### (1) 데이터 확인 및 생성
 
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/ba64ac8a-c0c5-4fdf-bc93-6702d8bb1c20/Untitled.xls)
+[[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/ba64ac8a-c0c5-4fdf-bc93-6702d8bb1c20/Untitled.xls)](https://www.notion.so/f9778fc4b2854ca18e2a87568001d4d8?pvs=4#6bce467ddf4c4be68517371f139ebceb)
 
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/cb0a0868-35fc-4ae3-b139-b60e4efeb74e/Untitled.xlsx)
+[[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/cb0a0868-35fc-4ae3-b139-b60e4efeb74e/Untitled.xlsx)](https://www.notion.so/f9778fc4b2854ca18e2a87568001d4d8?pvs=4#044119c744e745e49e434640293b6c32)
 
 - xml file → xlsx file로 변환
 - 모든 국가 별 수입/수출 데이터 생성
