@@ -26,11 +26,11 @@
 
 ### (3) 그래프 결과
 
-![KorExport.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/9def83b5-8a3b-44c7-86fb-273e9bd6f885/KorExport.png)
+![KorExport](https://github.com/ParkHeeJin00/KDT-5_PandasProject_hj/assets/155441547/0f8c3804-ea37-420d-a46f-90347b34fa0b)
 
-![KorImport.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/316c65b5-fe74-4db5-ae30-07bac96fa416/KorImport.png)
+![KorImport](https://github.com/ParkHeeJin00/KDT-5_PandasProject_hj/assets/155441547/6a512172-14c6-41ab-8f99-38a4cb3205ec)
 
-![allKorJap.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/216964e6-e339-4bee-9ea9-1410a45990f5/allKorJap.png)
+![allKorJap](https://github.com/ParkHeeJin00/KDT-5_PandasProject_hj/assets/155441547/11aa9e6e-b9a3-4a01-9222-0ea749306da6)
 
 ### (4) 인사이트 도출
 
@@ -73,7 +73,8 @@ plt.rc('font', size = 7)
 plt.suptitle('[2019-2020년도 일본 수출/입량 파이 분석]')
 ```
 
-![feedback-grahp.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/3ff5f0fb-a71f-45c7-aef1-b658ea569c7f/feedback-grahp.png)
+![feedback-grahp](https://github.com/ParkHeeJin00/KDT-5_PandasProject_hj/assets/155441547/ec74606b-72ba-41e3-bc49-4166549cb183)
+
 
 → 전체 수출/입량에서 일본이 차지하는 비율에 큰 변화가 없다. 전체적인 수출/입량이 줄어든 것이 일본 수출/입량이 줄어든 것에 영향을 준 것이라고 파악된다.
 
